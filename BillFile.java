@@ -27,6 +27,4 @@ public class BillFile {
 	
 	private String billno08;
 
-	private String billno07;
-
 }
