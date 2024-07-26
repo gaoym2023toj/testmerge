@@ -16,16 +16,6 @@ public class BillFile {
 	private String billFilehash;
 	
 	private String billno00;
-	
-	private String billno03;
-
-	private String billno02;
-	
-	private String billno05;
-	
-	private String billno04;
-	
-	private String billno08;
 
 	private String billno07;
 
