@@ -25,4 +25,6 @@ public class BillFile {
 	
 	private String billno06;
 
+	private String billno04;
+
 }
