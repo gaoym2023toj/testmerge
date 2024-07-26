@@ -23,8 +23,8 @@ public class BillFile {
 	
 	private String billno05;
 	
-	private String billno06;
-
 	private String billno04;
+	
+	private String billno08;
 
 }
