@@ -16,5 +16,7 @@ public class BillFile {
 	private String billFilehash;
 	
 	private String billno00;
+	
+	private String billno02;
 
 }
